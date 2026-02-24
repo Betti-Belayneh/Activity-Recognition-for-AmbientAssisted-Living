@@ -4,7 +4,7 @@ Author: Betelehem Z. Belayneh
 Institution: Augsburg University – Department of Computer Science
 Contact: bettibelayneh@gmail.com
 
-🔍 What is Ambient Assisted Living (AAL)?
+What is Ambient Assisted Living (AAL)?
 Ambient Assisted Living (AAL) refers to technologies designed to help older adults live safely and independently in their homes. 
 These technologies include:
       Smart devices
@@ -14,14 +14,14 @@ These technologies include:
 
 AAL enhances quality of life and supports aging in place.
 
-🎯 Purpose of the Research
+Purpose of the Research
 To recognize daily activities of elderly individuals using sensor data collected in an AAL environment.
 This data-driven activity recognition system can:
         Help monitor well-being
         Identify anomalies for emergency response
         Improve personalized support systems
 
-🛠️ Methodology
+Methodology
 Step 1: Data Collection
 Dataset: CASAS Smart Home Simulator Dataset
 
@@ -54,7 +54,7 @@ Evaluation via a confusion matrix
 Achieved 89% accuracy
 
 
-🧠 Background Concepts
+Background Concepts
 Machine Learning
 Branch of AI focused on learning from data
 
@@ -68,7 +68,7 @@ Supervised learning model inspired by the human brain
 Effective in classifying complex patterns
 
 
-📊 Results & Discussion
+Results & Discussion
 High accuracy for activities like sleeping, relaxing, and preparing meals
 
 Some confusion between similar activities (e.g., washing dishes vs. preparing meals)
@@ -76,7 +76,7 @@ Some confusion between similar activities (e.g., washing dishes vs. preparing me
 More diverse sensor data may improve model differentiation
 
 
-💻 Tools & Technologies
+Tools & Technologies
 Language: Python
 
 
@@ -86,14 +86,14 @@ Libraries:
   Matplotlib
   Seaborn
 
-⚠️ Challenges
+Challenges
 Difficulty selecting useful features during preprocessing
 
 Temperature data (float) caused training instability
 
 Learning curve with new Python libraries and ANN structure
 
-📚 References
+References
 Ambient Assisted Living (AAL)
 CASAS Smart Home Datasets
 IBM – Machine Learning
@@ -103,5 +103,5 @@ Confusion Matrix – Wikipedia
 Python Data Science Handbook
 W3Schools Pandas Tutorial
 
-❓ Questions?
+Questions?
 Feel free to reach out at bettibelayneh@gmail.com
